@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thekitsunex or Hannah
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in Pokémon, cats, and anime!
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to join a community and learn a new skill!
